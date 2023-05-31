@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome&nbsp;YoonBaB's&nbsp;Github!&fontSize=55)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome&nbsp;YoonBoB's&nbsp;Github!&fontSize=55)
   
   ![seoyoon528's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoon528&show_icons=true&theme=flag-india) 
   <br>
